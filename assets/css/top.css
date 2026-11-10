@@ -6,7 +6,6 @@ top common
 section {
     background-color: var(--primary-white, #FAFBFC);
     border-radius: 10px;
-    height: 73vh;
     padding: 40px var(--contentPadding-sp-in, 6.3%);
     margin: 0 var(--contentPadding-out, 12.5%) ;
     scroll-margin-top: 66px;
