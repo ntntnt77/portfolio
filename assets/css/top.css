@@ -140,7 +140,7 @@ profile
 @media screen and (min-width: 769px) {
     .profile__group {
         display: flex;
-        align-items: center;
+        align-items: flex-start;
     }
 
     .mainIcon {
@@ -150,6 +150,7 @@ profile
 
     .introduction__name {
         font-size: 2.8rem;
+        margin: 0;
     }
 
     .introduction__name--alpha {
